@@ -369,7 +369,7 @@ window:CreateButtonF2("A.I Hub", function()
 	end)
 end)
 
-window:CreateButtonF2("Fathom Hub", function()
+window:CreateButtonF2("MoonHub", function()
 	loadstring(game:HttpGet(('https://pastebin.com/raw/h69zwZ1v'),true))()
 end)
 
